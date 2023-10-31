@@ -84,6 +84,7 @@
             "taskforce\\logic\\actions\\": "src/logic/actions/",
             "taskforce\\exceptions\\": "src/exceptions/",
             "taskforce\\converter\\": "src/converter/"
+
         }
       }
 }
